@@ -12,13 +12,13 @@ Livia Zimermann
     b  → 0 c | 1 c | 2 c | 3 c | 4 c | 5 c | 6 c | 7 c | 8 c | 9 c
     c  → 0 d | 1 d | 2 d | 3 d | 4 d | 5 d | 6 d | 7 d | 8 d | 9 d
     d  → 0 e | 1 e | 2 e | 3 e | 4 e | 5 e | 6 e | 7 e | 8 e | 9 e
-    e  → . f
+    e  → '.' f
     f  → 0 g | 1 g | 2 g | 3 g | 4 g | 5 g | 6 g | 7 g | 8 g | 9 g
     g  → 0 h | 1 h | 2 h | 3 h | 4 h | 5 h | 6 h | 7 h | 8 h | 9 h
     h  → 0 i | 1 i | 2 i | 3 i | 4 i | 5 i | 6 i | 7 i | 8 i | 9 i
     i  → 0 j | 1 j | 2 j | 3 j | 4 j | 5 j | 6 j | 7 j | 8 j | 9 j
     j  → 0 k | 1 k | 2 k | 3 k | 4 k | 5 k | 6 k | 7 k | 8 k | 9 k
-    k  → “ “ l
+    k  → ' ' l
     l  → 0 m | 1 m | 2 m | 3 m | 4 m | 5 m | 6 m | 7 m | 8 m | 9 m
     m  → 0 n | 1 n | 2 n | 3 n | 4 n | 5 n | 6 n | 7 n | 8 n | 9 n
     n  → 0 o | 1 o | 2 o | 3 o | 4 o | 5 o | 6 o | 7 o | 8 o | 9 o
